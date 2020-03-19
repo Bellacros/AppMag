@@ -1,0 +1,2 @@
+# AppMag
+Magazyn z kontami
